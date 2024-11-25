@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleca\\OneDrive - Universidad Hispanoamericana\\III Cuatrimestre\\Programacion II\\Examen2-Alejandro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{505B4D35-1295-4EF7-A0C5-F442FC45B2C1}|Examen2-Alejandro\\Examen2-Alejandro.csproj|c:\\users\\aleca\\onedrive - universidad hispanoamericana\\iii cuatrimestre\\programacion ii\\examen2-alejandro\\examen2-alejandro\\vistas\\vistasg.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{505B4D35-1295-4EF7-A0C5-F442FC45B2C1}|Examen2-Alejandro\\Examen2-Alejandro.csproj|solutionrelative:examen2-alejandro\\vistas\\vistasg.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505B4D35-1295-4EF7-A0C5-F442FC45B2C1}|Examen2-Alejandro\\Examen2-Alejandro.csproj|C:\\Users\\aleca\\OneDrive - Universidad Hispanoamericana\\III Cuatrimestre\\Programacion II\\Examen2-Alejandro\\examen2-alejandro\\vistas\\vistasg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505B4D35-1295-4EF7-A0C5-F442FC45B2C1}|Examen2-Alejandro\\Examen2-Alejandro.csproj|solutionrelative:examen2-alejandro\\vistas\\vistasg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505B4D35-1295-4EF7-A0C5-F442FC45B2C1}|Examen2-Alejandro\\Examen2-Alejandro.csproj|C:\\Users\\aleca\\OneDrive - Universidad Hispanoamericana\\III Cuatrimestre\\Programacion II\\Examen2-Alejandro\\examen2-alejandro\\capalogica\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505B4D35-1295-4EF7-A0C5-F442FC45B2C1}|Examen2-Alejandro\\Examen2-Alejandro.csproj|solutionrelative:examen2-alejandro\\capalogica\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505B4D35-1295-4EF7-A0C5-F442FC45B2C1}|Examen2-Alejandro\\Examen2-Alejandro.csproj|C:\\Users\\aleca\\OneDrive - Universidad Hispanoamericana\\III Cuatrimestre\\Programacion II\\Examen2-Alejandro\\examen2-alejandro\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{505B4D35-1295-4EF7-A0C5-F442FC45B2C1}|Examen2-Alejandro\\Examen2-Alejandro.csproj|solutionrelative:examen2-alejandro\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VistasG.aspx",
+              "DocumentMoniker": "C:\\Users\\aleca\\OneDrive - Universidad Hispanoamericana\\III Cuatrimestre\\Programacion II\\Examen2-Alejandro\\Examen2-Alejandro\\Vistas\\VistasG.aspx",
+              "RelativeDocumentMoniker": "Examen2-Alejandro\\Vistas\\VistasG.aspx",
+              "ToolTip": "C:\\Users\\aleca\\OneDrive - Universidad Hispanoamericana\\III Cuatrimestre\\Programacion II\\Examen2-Alejandro\\Examen2-Alejandro\\Vistas\\VistasG.aspx",
+              "RelativeToolTip": "Examen2-Alejandro\\Vistas\\VistasG.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-24T17:02:14.599Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VistasG.cs",
+              "DocumentMoniker": "C:\\Users\\aleca\\OneDrive - Universidad Hispanoamericana\\III Cuatrimestre\\Programacion II\\Examen2-Alejandro\\Examen2-Alejandro\\Vistas\\VistasG.cs",
+              "RelativeDocumentMoniker": "Examen2-Alejandro\\Vistas\\VistasG.cs",
+              "ToolTip": "C:\\Users\\aleca\\OneDrive - Universidad Hispanoamericana\\III Cuatrimestre\\Programacion II\\Examen2-Alejandro\\Examen2-Alejandro\\Vistas\\VistasG.cs",
+              "RelativeToolTip": "Examen2-Alejandro\\Vistas\\VistasG.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:19:29.069Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "C:\\Users\\aleca\\OneDrive - Universidad Hispanoamericana\\III Cuatrimestre\\Programacion II\\Examen2-Alejandro\\Examen2-Alejandro\\CapaLogica\\DBHelper.cs",
+              "RelativeDocumentMoniker": "Examen2-Alejandro\\CapaLogica\\DBHelper.cs",
+              "ToolTip": "C:\\Users\\aleca\\OneDrive - Universidad Hispanoamericana\\III Cuatrimestre\\Programacion II\\Examen2-Alejandro\\Examen2-Alejandro\\CapaLogica\\DBHelper.cs",
+              "RelativeToolTip": "Examen2-Alejandro\\CapaLogica\\DBHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:03:28.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\aleca\\OneDrive - Universidad Hispanoamericana\\III Cuatrimestre\\Programacion II\\Examen2-Alejandro\\Examen2-Alejandro\\Web.config",
+              "RelativeDocumentMoniker": "Examen2-Alejandro\\Web.config",
+              "ToolTip": "C:\\Users\\aleca\\OneDrive - Universidad Hispanoamericana\\III Cuatrimestre\\Programacion II\\Examen2-Alejandro\\Examen2-Alejandro\\Web.config",
+              "RelativeToolTip": "Examen2-Alejandro\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-24T16:52:43.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
